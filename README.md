@@ -13,7 +13,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ricky-js's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ricky-js&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ricky-js's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ricky&#8212js&show_icons=true&hide_border=true" />
 
 </details>
 
