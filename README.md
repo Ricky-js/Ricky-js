@@ -1,7 +1,7 @@
 ### Hi there, I'm Ricky!
 
-[![Website](https://img.shields.io/website?label=rickyz.ml&style=for-the-badge&url=https%3A%2F%2Frickz.ml)](https://www.rickyz.ml)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rickyzcool?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rickyzcool)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rickyzcool?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RickyzCool)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dbotscript?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DBostScript)
 
 ## I'm a HTML, CSS, JS Developer!
 
