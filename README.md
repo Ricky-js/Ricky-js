@@ -10,14 +10,13 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like cheese
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## Find me at
+[website](https://www.rickyz.ml)
+[twitter](https://twitter.com/rickyzcool)
+[youtube](https://youtube.com/supernoob)
+[instagram](https://instagram.com/rickydana06)
 
-  <img align="left" alt="Ricky-js's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ricky&#8212js&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://www.rickyz.ml
-[twitter]: https://twitter.com/rickyzcool
-[youtube]: https://youtube.com/supernoob
-[instagram]: https://instagram.com/rickydana06
+## DB-Script
+[Website](https://www.db-script.xyz)
+[Twitter](https://twitter.com/DBotScript)
+[Docs](https://docs.db-script.xyz)
