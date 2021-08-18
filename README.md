@@ -11,12 +11,12 @@
 - ⚡ Fun fact: I like cheese
 
 ## Find me at
-[website](https://www.rickyz.ml)
-[twitter](https://twitter.com/rickyzcool)
-[youtube](https://youtube.com/supernoob)
-[instagram](https://instagram.com/rickydana06)
+- [Website](https://www.rickyz.ml)
+- [Twitter](https://twitter.com/rickyzcool)
+- [Youtube](https://youtube.com/supernoob)
+- [Instagram](https://instagram.com/rickydana06)
 
 ## DB-Script
-[Website](https://www.db-script.xyz)
-[Twitter](https://twitter.com/DBotScript)
-[Docs](https://docs.db-script.xyz)
+- [Website](https://www.db-script.xyz)
+- [Twitter](https://twitter.com/DBotScript)
+- [Docs](https://docs.db-script.xyz)
