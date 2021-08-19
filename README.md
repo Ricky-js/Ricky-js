@@ -10,6 +10,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like cheese
 
+## My Stats
+[![Ricky-js's github stats](https://github-readme-stats.vercel.app/api?username=Ricky-js&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Ricky-js)
+
 ## Find me at
 - [Website](https://www.rickyz.ml)
 - [Twitter](https://twitter.com/rickyzcool)
