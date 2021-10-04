@@ -11,10 +11,10 @@
 - ⚡ Fun fact: I like cheese
 
 ## My Stats
-[![Ricky-js's github stats](https://github-readme-stats.vercel.app/api?username=Ricky-js&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Ricky-js)
+[![Ricky's github stats](https://github-readme-stats.vercel.app/api?username=RickyzCool&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Ricky-js)
 
 ## Find me at
-- [Website](https://www.rickyz.ml)
+- [Website](https://www.rickyjs.xyz)
 - [Twitter](https://twitter.com/rickyzcool)
 - [Youtube](https://youtube.com/supernoob)
 - [Instagram](https://instagram.com/rickydana06)
