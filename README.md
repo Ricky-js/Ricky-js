@@ -31,6 +31,3 @@
 - Website (Soon!)
 - [Docs](https://statusnotifier.rickyjs.xyz)
 - [Invite](https://discord.com/oauth2/authorize?client_id=865524120573181972&permissions=380096&scope=bot)
-
-NzYxOTE1OTM5MzAxNjIxODEx.G_dvwZ.fatz3twmmQQxrp-u4wohT1FbeBoBrLdAHxaZW4
-
