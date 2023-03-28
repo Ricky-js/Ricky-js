@@ -1,7 +1,6 @@
 ### Hi there, I'm Ricky!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rickyzcool?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RickyzCool)
-[![Discord Presence](https://discord.c99.nl/widget/theme-3/672215920558604332.png)](https://discord.com/users/672215920558604332)
 
 ## I'm a HTML, CSS, JS Developer!
 
@@ -18,16 +17,10 @@
 - [Twitter](https://twitter.com/rickyzcool)
 - [Instagram](https://instagram.com/rickydana06)
 
-## DB-Script
-- [Website](https://www.db-script.xyz)
-- [Twitter](https://twitter.com/DBotScript)
-- [Docs](https://docs.db-script.xyz)
-
-## Flowlist
-- [Website](https://flowlist.xyz)
-- [Docs](https://docz.flowlist.xyz)
+## BDFDData
+- [Website](https://bdfddata.rickyjs.xyz)
+- [Docs](https://dadocs.rickyjs.xyz)
 
 ## Status Notifier
-- Website (Soon!)
 - [Docs](https://statusnotifier.rickyjs.xyz)
 - [Invite](https://discord.com/oauth2/authorize?client_id=865524120573181972&permissions=380096&scope=bot)
